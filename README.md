@@ -1,4 +1,4 @@
-# Hello! <img src="./wave-hand.png" width="500" height="500">
+# Hello! <img src="./wave-hand.png" width="100" height="100">
 
 ## My name is Varun Lagadapati!
 
