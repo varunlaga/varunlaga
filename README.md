@@ -16,7 +16,7 @@
 
 <img src="./aws.png" width="100" height="100">
 
-<img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/a92f3edb-ec4c-4a63-aaae-7c4053ad0c56" width="100" height="100">
+<img src="./sharepoint.png" width="100" height="100">
 
 </p>
 
