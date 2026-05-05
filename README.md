@@ -12,7 +12,7 @@
 
 <img src="./c.png" width="50" height="100">
 
-<img src="./SQLImage.png" width="100" height="100">
+<img src="./SQLimage.png" width="100" height="100">
 
 <img src="https://github.com/varun-lagadapati/About-Me/assets/123317278/e91c8bdd-bd46-46a0-9664-1f644665a304" width="100" height="100">
 
