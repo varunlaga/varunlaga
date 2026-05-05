@@ -20,9 +20,9 @@
 
 ### Interests:
 
-- Data Science 
-- Machine Learning
+- Data Science
 - Artificial Intelligence
+- Machine Learning
 - Computer Vision
 - Deep Learning
 - Natural Language Processing
