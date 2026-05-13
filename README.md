@@ -22,6 +22,7 @@
 
 ### Interests:
 
+- Software Engineering
 - Data Science
 - Artificial Intelligence
 - Machine Learning
